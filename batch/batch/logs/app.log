@@ -1,0 +1,1 @@
+2022-11-21 09:52:33,277 INFO o.e.Main [main] Response message is ResponseMessage{successOrFailure='failed', cause='db error', id=12}

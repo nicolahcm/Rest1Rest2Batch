@@ -1,0 +1,4 @@
+org\example\tasks\StartHttpToR1.class
+org\example\Main.class
+org\example\tasks\CreateNewEntry.class
+org\example\beans\ResponseMessage.class
